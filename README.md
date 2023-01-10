@@ -1,6 +1,6 @@
 # CookCHef Project
 
-This is technological watch exercice for React 18 realised with Dyma.fr instructions. 
+This is technological watch exercice for React 18 realised with Dyma.fr instructions.
 
 ## Getting Started with Create React App
 
