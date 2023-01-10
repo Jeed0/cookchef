@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# CookCHef Project
+
+This is technological watch exercice for React 18 realised with Dyma.fr instructions. 
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
