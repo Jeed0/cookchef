@@ -1,6 +1,12 @@
 # CookCHef Project
 
-This is technological watch exercice for React 18 realised with Dyma.fr instructions. 
+This is technological watch exercice for React 18 realised with Dyma.fr instructions.
+
+## Credits : 
+
+icons = <https://fontawesome.com/>
+
+Image de [Freepik](https://fr.freepik.com/photos-gratuite/vue-dessus-concept-nature-morte-livre-recettes_16920748.htm#query=recette&position=8&from_view=search&track=sph)
 
 ## Getting Started with Create React App
 
