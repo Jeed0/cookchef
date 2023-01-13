@@ -3,7 +3,7 @@
 This is technological watch exercice for React 18 realised with Dyma.fr instructions.
 I update myself between each sprint in V18.
 
-## Planning
+## Planning <https://github.com/users/Jeed0/projects/3>
 
 ### Sprint 0
 
