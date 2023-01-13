@@ -1,6 +1,64 @@
 # CookCHef Project
 
-This is technological watch exercice for React 18 realised with Dyma.fr instructions. 
+This is technological watch exercice for React 18 realised with Dyma.fr instructions.
+I update myself between each sprint in V18.
+
+## Planning
+
+### Sprint 0
+
+Initalize project
+
+### Sprint 1
+
+Mise en place de la strucutre de l'application
+
+### Sprint 2
+
+Ajouter d'un système de "J'aime" à l'application
+Rendre l'application responsive
+Ajout d'un menu sur téléphone
+Ajout d'une barre de recherche
+Refactorisation
+
+### Sprint 3
+
+Persistance des données avec une API REST
+Récupération des données avec une API REST
+Sauvegarde des j'aimes
+Système de pagination pour les recettes
+
+### Sprint 4
+
+Installations de librairies
+Création d'un composant Search
+Déplacement du style dans Search.module.scss
+Déplacement de la logique de la barre de recherche dans le composant Search.js
+Modification du composant Homepage.js
+
+### Sprint 5
+
+création d'un dossier API des des routes pour les recettes
+refactorisation de Homepage pour centraliser les interactions avec l'API
+Mise en place de React Router
+Développement d'un panel administrateur avec gestion des recettes
+Ajout de la possibilité d'éditer une recette
+
+### Sprint 6
+
+Amélioration des imports
+Modification du composant AdminRecipe
+Mise en place de Recoil
+
+### Sprint 7
+
+Migrer sur TypeScript
+
+## Credits
+
+icons = <https://fontawesome.com/>
+
+Image de [Freepik](https://fr.freepik.com/photos-gratuite/vue-dessus-concept-nature-morte-livre-recettes_16920748.htm#query=recette&position=8&from_view=search&track=sph)
 
 ## Getting Started with Create React App
 
